@@ -21,9 +21,9 @@ If your company / organization already use one of the vulnerability scanners you
 Everything what you need to do is choose used solution and pass the API key in the configuration file.   
 Then Meerkat take advantage on the results returned by Snyk, Veracode or other supported vulnerability scanner in the final trust factor calculation.
 
-<img src="snyk.png" width=300> 
-<img src="veracode.png" width=150 style="float: 'right'">
-
+<img src="snyk.png" width=300 align="left"> 
+<img src="veracode.png" width=150 align="left">
+<br><br><br><br><br><br><br>
 
 ## Tech stack
 ![tech_stack](tech_stack.png)
