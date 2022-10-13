@@ -24,10 +24,3 @@ Then Meerkat take advantage on the results returned by Snyk, Veracode or other s
 <img src="snyk.png" width=300 align="left"> 
 <img src="veracode.png" width=150 align="left">
 <br><br><br><br><br><br><br>
-
-## Tech stack
-![tech_stack](tech_stack.png)
-
-
-2. Vulnerability engine
-1. Meerkat API controller and hypervisor
